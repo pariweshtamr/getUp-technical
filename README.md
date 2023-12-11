@@ -14,6 +14,10 @@
 - Mobile Responsive
 - Reusable components such as buttons, headings, skeleton and logo
 
+### Prerequisites
+
+**Node version 18.x.x**
+
 ### Cloning the repository
 
 ```bash
