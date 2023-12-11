@@ -17,6 +17,7 @@ const config: Config = {
     extend: {
       colors: {
         primary: "rgba(var(--primary), <alpha-value>)",
+        orange: "rgba(var(--orange), <alpha-value>)",
         secondary: "rgba(var(--secondary), <alpha-value>)",
         muted: "rgba(var(--muted), <alpha-value>)",
         bkg: "rgba(var(--bkg), <alpha-value>)",

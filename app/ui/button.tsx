@@ -3,5 +3,5 @@ type ButtonProps = {
   className?: string
 }
 export const Button = ({ children, className }: ButtonProps) => {
-  return <div className={className}>{children}</div>
+  return <button className={className}>{children}</button>
 }

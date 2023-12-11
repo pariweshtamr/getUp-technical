@@ -12,7 +12,7 @@ const LandingLayout = ({ children }: { children: React.ReactNode }) => {
     <div className="h-full bg-muted">
       {/* Navbar */}
       <Navbar />
-      <main className="py-32 bg-muted md:max-w-screen-xl md:mx-auto">
+      <main className="py-32 bg-muted px-3 md:max-w-screen-xl md:mx-auto">
         {children}
       </main>
       {/* Footer */}
