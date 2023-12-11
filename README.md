@@ -2,6 +2,8 @@
 
 ![App Screenshot](https://github.com/pariweshtamr/getUp-technical/blob/main/public/technical-exercise.png)
 
+![App Screenshot](https://github.com/pariweshtamr/getUp-technical/blob/main/public/technical-exercise-dark.png)
+
 ### Demo
 
 [LINK TO DEMO](https://get-up-technical.vercel.app/)
