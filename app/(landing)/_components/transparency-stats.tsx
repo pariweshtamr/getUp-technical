@@ -8,7 +8,7 @@ export const TransparencyStats = async () => {
   return (
     <div className="w-full mt-8">
       <table className="table-auto w-full bg-bkg/90 shadow-md rounded-md text-txt">
-        <thead className="bg-orange/20">
+        <thead className="bg-orange/70">
           <tr className="text-left h-14 text-sm md:text-lg">
             <th className="rounded-tl-md"></th>
             <th>Last Day</th>

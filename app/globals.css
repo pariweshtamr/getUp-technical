@@ -17,10 +17,10 @@
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --primary: 31, 31, 31;
+      --primary: 34, 34, 34;
       --orange: 255, 103, 32;
       --secondary: 33, 152, 245;
-      --muted: 18, 18, 18;
+      --muted: 11, 11, 11;
       --bkg: 26, 26, 26;
       --txt: 245, 245, 245;
     }
