@@ -1,6 +1,6 @@
 # Techinal Assessment: Next.js 14, React, Server Components, Tailwind
 
-![App Screenshot](https://github.com/pariweshtamr/getUp-technical/public/technical-exercise.png?raw=true)
+![App Screenshot](https://github.com/pariweshtamr/getUp-technical/blob/main/public/technical-exercise.png)
 
 ### Demo
 
