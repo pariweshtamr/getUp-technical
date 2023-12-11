@@ -3,7 +3,7 @@ import { Stats } from "@/types"
 
 export const TransparencyStats = async () => {
   // since all components in next js are server components by default we can directly fetch data from the specified api
-  const stats = await fetcher("https://www.getup.org.au/api/transparency_stats")
+  const stats = await fetcher(process.env.API_URL as string)
 
   return (
     <div className="w-full mt-8">
