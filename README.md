@@ -1,4 +1,4 @@
-# Techinal Assessment: Next.js 14, React, Server Components, Tailwind
+# Techinal Assessment: Next.js 14, React, Server Components, Client Components, Tailwind
 
 ![App Screenshot](https://github.com/pariweshtamr/getUp-technical/blob/main/public/technical-exercise.png)
 
