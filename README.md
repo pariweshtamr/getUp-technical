@@ -4,13 +4,15 @@
 
 ### Demo
 
-Insert gif or link to demo
+[LINK TO DEMO](https://get-up-technical.vercel.app/)
 
 ### Features
 
 - GetUp API for live transparency stats data
 - Light/dark mode based on user's system/browser preference
 - TailwindCSS
+- Mobile Responsive
+- Reusable components such as buttons, headings, skeleton and logo
 
 ### Cloning the repository
 
@@ -33,7 +35,7 @@ To run this project, you will need to add the following environment variables to
 ### Start the app
 
 ```bash
-npm run start
+npm run dev
 ```
 
 ### Available commands

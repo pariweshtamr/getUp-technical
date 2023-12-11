@@ -4,7 +4,7 @@ export const Skeleton = ({
 }: React.HTMLAttributes<HTMLDivElement>) => {
   return (
     <div
-      className={`${className} rounded-md bg-primary/40 animate-pulse`}
+      className={`${className} rounded-md bg-orange/40 animate-pulse`}
       {...props}
     />
   )
